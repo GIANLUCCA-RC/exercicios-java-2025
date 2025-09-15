@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/00-udesc-2025.iml" filepath="$PROJECT_DIR$/00-udesc-2025.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/exercicio-java.iml" filepath="$PROJECT_DIR$/exercicio-java.iml" />
+>>>>>>> 4b189a1 (Commit Ex4-Ex7)
     </modules>
   </component>
 </project>
